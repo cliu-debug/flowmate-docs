@@ -10,6 +10,12 @@
 - 定时提醒
 - 本地数据存储，保护隐私
 
+## 效果演示
+
+![演示1](动画1.gif)
+![演示2](动画2.gif)
+![演示3](动画3.gif)
+
 ## 下载试用
 
 [![Releases](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/cliu-debug/flowmate-docs/releases)
