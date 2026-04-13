@@ -12,7 +12,9 @@
 
 ## 下载试用
 
-前往 [Releases](https://github.com/你的用户名/flowmate-docs/releases) 下载最新安装包。
+[![Releases](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/cliu-debug/flowmate-docs/releases)
+
+前往 [Releases](https://github.com/cliu-debug/flowmate-docs/releases) 下载最新安装包。
 
 ## 使用文档
 
